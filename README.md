@@ -18,5 +18,5 @@ QQ交流群 418316375
 [词元分析器(tokenizer)](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)
 [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)
 
-### 已翻译外置腳本
+### 已翻译外置脚本
 [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)
