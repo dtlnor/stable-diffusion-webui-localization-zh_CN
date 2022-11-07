@@ -18,5 +18,10 @@
 | Install | 安装 |
 | Installing... | 安装中... |
 | Installed | 已安装 |
+
+### 对无法翻译内容附近的文本，尝试补充翻译(beta)
+
+| 原文 | 翻译 |
+| --- | --- |
 | Style to apply; styles have components for both positive and negative prompts and apply to both | 要使用的模版风格； 模版风格包含正向和反向提示词，并应用于两者\n🎨    随机添加一个艺术家到提示词中\n↙️     从提示词中读取生成参数，如果提示词为空，则读取上一次的生成参数到用户界面\n💾    将当前的提示词保存为模版风格(保存在styles.csv)\n📋    将所选模板风格，应用于当前提示词\n如果你在文本中添加{prompt}标记，并保存为模版风格\n那么将来你使用该模版风格时，你现有的提示词会替换模版风格中的{prompt} |
 | A value that determines the output of random number generator - if you create an image with same parameters and seed as another image, you'll get the same result | 一个固定随机数生成器输出的值 - 以相同参数和随机种子生成的图像会得到相同的结果\n🎲    将随机种子设置为-1，则每次都会使用一个新的随机数\n♻️    重用上一次使用的随机种子，如果想要固定输出结果就会很有用 |
