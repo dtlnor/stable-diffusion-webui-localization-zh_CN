@@ -594,7 +594,7 @@
     "zh_CN Localization": "简体中文本地化",
     "Provide Simplified Chinese localization for the WebUI": "提供简体中文本地化",
     "Unprompted": "非文本（代码化）提示词",
-    "Allows you to include various shortcodes in your prompts. You can pull text from files, set up your own variables, process text through conditional functions, and so much more - it's like wildcards on steroids.": "允许您在提示词中包含各种短代码。 你可以从文件中提取文本、设置自己的变量、通过条件函数处理文本等等 - 这就像类固醇版本的通配符",
+    "Allows you to include various shortcodes in your prompts. You can pull text from files, set up your own variables, process text through conditional functions, and so much more - it's like wildcards on steroids.": "允许您在提示词中包含各种短代码。 你可以从文件中提取文本、设置自己的变量、通过条件函数处理文本等等 - 就像是增强版的通配符",
 
     "latest": "最新",
     "behind": "落后",
