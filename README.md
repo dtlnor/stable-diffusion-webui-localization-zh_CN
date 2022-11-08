@@ -8,6 +8,8 @@ QQ交流群 418316375
 
 [已知问题](Known-Bug.md)
 
+[中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
+
 ### 已翻译扩展
 [镜像潜空间图像](https://github.com/dfaker/SD-latent-mirroring)  
 [Tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
