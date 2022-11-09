@@ -6,6 +6,8 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 QQ交流群 418316375
 
+[术语表](Terminology.md)
+
 [已知问题](Known-Bug.md)
 
 [中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
