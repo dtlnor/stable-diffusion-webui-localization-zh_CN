@@ -19,6 +19,7 @@ QQ交流群 418316375
 [图库浏览器](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
 [词元分析器(tokenizer)](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
 [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
+[dreambooth](https://github.com/d8ahazard/sd_dreambooth_extension)  
 
 ### 已翻译外置脚本
 [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)  
