@@ -14,7 +14,7 @@
 | Slerp              |          | 球面线性插值     |                                                              |
 | Aesthetic          |          | 美术风格         |                                                              |
 | tokenizer          |          | 词元             |                                                              |
-| Textual Inversion  |          |                  | [参考链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion                                                             |
+| Textual Inversion  |          |                  | [参考链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)                                                             |
 | t2i                |          | 文生图           | txt to img 的缩写                                            |
 | i2i                |          | 图生图           | img to img 的缩写                                            |
 | Tag                |          | 提示词           | 某些教程会使用 Tag 作为 Prompt 的翻译，但实际上只有部分模型（如wd跟nai）可以以tag的方式作为提示词输入 |
