@@ -550,6 +550,7 @@
     "Show images zoomed in by default in full page image viewer": "在整页图像查看器中，默认放大显示图像",
     "Show generation progress in window title.": "在窗口标题中显示生成进度",
     "Quicksettings list": "快速设置列表",
+    "localization": "本地化",
     "Localization (requires restart)": "本地化翻译（需要保存设置，并重启Gradio）",
     "Sampler parameters": "采样器参数",
     "Hide samplers in user interface (requires restart)": "在用户界面中隐藏采样器（需要重新启动）",
