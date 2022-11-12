@@ -17,6 +17,7 @@ QQ交流群 418316375
 [Tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
 [novelai 转 webui 括号](https://github.com/animerl/novelai-2-local-prompt)  
 [dreambooth 插件](https://github.com/d8ahazard/sd_dreambooth_extension)  
+[智能预处理](https://github.com/d8ahazard/sd_smartprocess)  
 [种子变迁](https://github.com/yownas/seed_travel)  
 [关注转移](https://github.com/yownas/shift-attention)  
 [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
