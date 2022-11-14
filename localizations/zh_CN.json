@@ -635,7 +635,7 @@
     "ddetailer": "检测细致化",
     "deforum-for-automatic1111-webui": "Deforum",
     "novelai-2-local-prompt": "novelai 转 webui 括号",
-    "sd-dynamic-prompting": "动态提示词",
+    "sd-dynamic-prompts": "动态提示词",
     "sd_dreambooth_extension": "dreambooth 插件",
     "sd_smartprocess": "智能预处理",
     "seed_travel": "种子变迁",
@@ -879,6 +879,7 @@
     "Randomize Highres. Width": "随机化 高分辨率修复的第一遍的宽度",
     "Randomize Highres. Height": "随机化 高分辨率修复的第一遍的高度",
     "Randomize CLIP skip": "随机化 在 CLIP 模型的最后哪一层停下 (Clip skip)",
+    "sd-dynamic-prompting": "动态提示词",
     
     "--------": "--------"
 }
