@@ -189,7 +189,7 @@
     "sign": "sign",
     "tanh": "tanh",
     "Weight for latent match (grad/replace-grad mode)": "用于匹配潜空间(latent)的权重 (梯度/取代模式)",
-    "Weight for cond match (grad/replace-grad mode)": "用于匹配调节(cond)的权重 (梯度/取代模式)",
+    "Weight for cond match (grad/replace-grad mode)": "用于匹配文字调节(cond)的权重 (梯度/取代模式)",
     "Video FPS": "视频 FPS",
     "Show verbose debug info at console": "在控制台中输出详尽的调试信息",
     "Save": "保存",
@@ -903,7 +903,7 @@
     "similar": "相似",
     "different": "差异",
     "Loss for latent match (grad mode)": "匹配潜空间(latent)损失 (梯度模式)",
-    "Loss for cond match (grad mode)": "匹配调节(cond)损失 (梯度模式)",
+    "Loss for cond match (grad mode)": "匹配文字调节(cond)损失 (梯度模式)",
     "Instance prompt(Optional)": "实例(Instance)提示词 (可选)",
     
     
