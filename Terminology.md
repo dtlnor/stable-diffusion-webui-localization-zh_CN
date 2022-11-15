@@ -22,7 +22,7 @@
 | naifu              |          |                  | Novel AI 本地版                                    |
 | webUI              |          |                  | [stable diffusion 网页用户界面](https://github.com/AUTOMATIC1111/stable-diffusion-webui)，由AUTOMATIC1111开发 |
 | embedding          |          |                  |                                                              |
-| ENSD               |          |                  |                                                              |
+| ENSD               |          |                  | Eta noise seed delta                                                             |
 | CLIP               |          |                  | Contrastive Language-Image Pre-Training的缩写。CLIP是用于处理文本理解文本的神经网络，它把你的自然语言提示语分割成词元并转化为向量供 diffusion 模型使用 |
 | WD                 |          |                  | waifu diffusion的缩写       |
 
