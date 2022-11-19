@@ -299,7 +299,7 @@
     "ScuNET GAN": "ScuNET GAN",
     "ScuNET PSNR": "ScuNET PSNR",
     "SwinIR_4x": "SwinIR 4x",
-    "Recommended settings: Use from inpaint tab, inpaint at full res ON, denoise <0.5": "推荐设置：于局部重绘选项卡使用，开启全分辨率局部重绘，重绘幅度(Denoising strength) < 0.5",
+    "Recommended settings: Use from inpaint tab, inpaint at full res ON, denoise <0.5": "推荐设置：于局部重绘选项卡使用，开启全分辨率局部重绘，重绘幅度(Denoising) < 0.5",
     "Single Image": "单个图像",
     "Batch Process": "批量处理",
     "Batch from Directory": "从目录进行批量处理",
