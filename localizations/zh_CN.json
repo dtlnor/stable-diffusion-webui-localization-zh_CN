@@ -306,7 +306,7 @@
     "Source": "来源",
     "Show result images": "显示输出图像",
     "Scale by": "等比缩放",
-    "Scale to": "按尺寸缩放",
+    "Scale to": "指定分辨率缩放",
     "Resize": "缩放比例",
     "Crop to fit": "裁剪以适应宽高比",
     "Upscaler 2 visibility": "放大算法 2 (Upscaler 2) 可见度",
