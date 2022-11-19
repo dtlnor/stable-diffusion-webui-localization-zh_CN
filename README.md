@@ -33,7 +33,7 @@ QQ交流群 418316375
 
 ### 3. 又或者，直接下载然后放在对应路径
 - 下载本 git 仓库为 zip 档案
-![image](https://user-images.githubusercontent.com/21131439/202857043-1eeab798-2727-4ecb-9018-c15be5838725.png)
+![image](https://user-images.githubusercontent.com/21131439/202857957-c7d5d649-4197-4197-8650-f7941917400b.png)
 - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
 ![image](https://user-images.githubusercontent.com/21131439/202857213-3aa98467-c39b-43b3-9d6f-ed5ac0e4b753.png)
 - 安装完成，跳转到 [如何使用](#如何使用)
