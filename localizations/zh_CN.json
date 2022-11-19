@@ -986,7 +986,7 @@
     "Move VAE and CLIP to RAM when training hypernetwork. Saves VRAM.": "训练超网络(Hypernetwork)时将 VAE 和 CLIP 从显存(VRAM)移放到内存(RAM)，节省显存(VRAM)",
     "How many times to improve the generated image iteratively; higher values take longer; very low values can produce bad results": "迭代改进生成的图像多少次；更高的值需要更长的时间；非常低的值会产生不好的结果",
     "Draw a mask over an image, and the script will regenerate the masked area with content according to prompt": "在图像上画一个蒙版，脚本会根据提示重新生成蒙版区域的内容",
-    "Upscale image normally, split result into tiles, improve each tile using img2img, merge whole image back": "正常放大图像，将结果分割成图块（tiles），用图生图改进每个图块（tiles），最后将整个图像合并回来",
+    "Upscale image normally, split result into tiles, improve each tile using img2img, merge whole image back": "正常放大图像，将结果分割成图块(tiles)，用图生图改进每个图块，最后将整个图像合并回来",
     "Create a grid where images will have different parameters. Use inputs below to specify which parameters will be shared by columns and rows": "创建一个网格，图像将有不同的参数。使用下面的输入来指定哪些参数将由列和行共享",
     "Run Python code. Advanced user only. Must run program with --allow-code for this to work": "运行 Python 代码。仅限老手使用。必须以 --allow-code 来开启程序，才能使其运行",
     "Separate a list of words with commas, and the first word will be used as a keyword: script will search for this word in the prompt, and replace it with others": "以逗号分割的单词列表，第一个单词将被用作关键词：脚本将在提示词中搜索这个单词，并用其他单词替换它",
