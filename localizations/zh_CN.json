@@ -375,7 +375,7 @@
     "KaimingNormal": "Kaiming 正态",
     "XavierUniform": "Xavier 均匀",
     "XavierNormal": "Xavier 正态",
-    "Add layer normalization": "添加归一化层",
+    "Add layer normalization": "添加层归一化",
     "Use dropout": "采用 dropout 防止过拟合",
     "Overwrite Old Hypernetwork": "覆写旧的超网络",
     "Source directory": "源目录",
