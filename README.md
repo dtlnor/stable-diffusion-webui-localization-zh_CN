@@ -13,39 +13,45 @@ QQ交流群 418316375
 [中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
 
 ## 如何安装
-### 1. 通过官方插件列表安装
-此插件可以在 `extension` 选项卡里面通过加载官方插件列表直接安装
+### 1. 通过官方扩展列表安装
+此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
 - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
-- 先取消勾选 `localization` 选项框
-- 然后点击 `Load From:` 按钮，如下图
-![image](https://user-images.githubusercontent.com/21131439/202856658-b6b41b93-c4ff-40a9-be87-e24fc04893eb.png)
+- 取消勾选 `localization`
+- 然后点击 **橙色按钮**，如下图
+![image](https://user-images.githubusercontent.com/60730393/202897956-484e2aaa-89db-4612-8e69-8d76458e23d0.png)
 - 在 `zh_CN Localization` 这一项的右边点击 `install`
-![image](https://user-images.githubusercontent.com/21131439/202856395-d3927577-d47a-4a3a-a9b5-5f5b93f9b167.png)
+![image](https://user-images.githubusercontent.com/60730393/202897890-cd502e8d-dee0-48f8-835a-c3446cfb526c.png)
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ### 2. 或者，通过网址安装
 - 点击 `extension` 选项卡，点击 `Install from URL` 子选项卡
 - 复制本 git 仓库网址：
-`https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN`
+```
+https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+```
 - 黏贴进第一栏，点击 `Install`，如图
-![image](https://user-images.githubusercontent.com/21131439/202856718-a7d73c84-b1ca-4b90-9b35-b69d31a7b568.png)
+![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ### 3. 又或者，直接下载然后放在对应路径
 - 下载本 git 仓库为 zip 档案
-![image](https://user-images.githubusercontent.com/21131439/202857957-c7d5d649-4197-4197-8650-f7941917400b.png)
+![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)
 - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
-![image](https://user-images.githubusercontent.com/21131439/202857213-3aa98467-c39b-43b3-9d6f-ed5ac0e4b753.png)
+![image](https://user-images.githubusercontent.com/60730393/202898631-e4f6b3e2-b1d2-4258-b003-3142597fff3b.png)
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ## 如何使用
-- 确保你安装后有重启程序
-  - 或者重启过 UI，比如按过 `Settings` 选项卡中的最右下角的橙色按钮；
-  - 或者在确保你在 `Extensions` 选项卡中的 `Installed` 子选项卡中勾选了 zh_CN 扩展，然后按一下 `Apply and restart UI` 橙色按钮
-- 在 `Settings` 选项卡中，于 **`User interface`** 大项中找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `zh_CN` （如果没有显示就按一下🔄按钮），如图
-![image](https://user-images.githubusercontent.com/21131439/202857765-e7c57ef8-011c-4192-be5a-165749528162.png)
-- 然后**记得记得**按一下顶部的 `Apply settings` 橙色按钮，应用了设定之后再按一下最右下角的 `Restart...` 橙色按钮（或者直接重启）
-![image](https://user-images.githubusercontent.com/21131439/202858282-bd728f71-6edc-4fb9-9602-d6adb2774764.png)
+**重启webUI以启用扩展**
+- 在 `Extensions` 选项卡，点击 **橙色按钮** 以刷新扩展列表
+- 再次打开 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
+
+**选择简体中文语言包（zh_CN）**
+- 在 `Settings` 选项卡中，找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图
+![image](https://user-images.githubusercontent.com/60730393/202900620-263cbdd3-0559-4b08-acd6-29570add8a3f.png)
+  
+- 然后按一下 页面顶部的  **橙色按钮** 保存设置，再按 页面底部的 **橙色按钮** 重启webUI
+![image](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)  
+![image](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
 ## 已翻译扩展
 [镜像潜空间图像](https://github.com/dfaker/SD-latent-mirroring)  
