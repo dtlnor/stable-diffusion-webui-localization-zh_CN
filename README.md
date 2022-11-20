@@ -18,7 +18,8 @@ QQ交流群 418316375
 - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
 - 取消勾选 `localization`
 - 然后点击 **橙色按钮**，如下图
-![image](https://user-images.githubusercontent.com/60730393/202897956-484e2aaa-89db-4612-8e69-8d76458e23d0.png)
+![image](https://user-images.githubusercontent.com/60730393/202897956-484e2aaa-89db-4612-8e69-8d76458e23d0.png)  
+
 - 在 `zh_CN Localization` 这一项的右边点击 `install`
 ![image](https://user-images.githubusercontent.com/60730393/202897890-cd502e8d-dee0-48f8-835a-c3446cfb526c.png)
 - 安装完成，跳转到 [如何使用](#如何使用)
@@ -30,14 +31,15 @@ QQ交流群 418316375
 https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 ```
 - 黏贴进第一栏，点击 `Install`，如图
-![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)
+![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ### 3. 又或者，直接下载然后放在对应路径
 - 下载本 git 仓库为 zip 档案
-![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)
+![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
+
 - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
-![image](https://user-images.githubusercontent.com/60730393/202898631-e4f6b3e2-b1d2-4258-b003-3142597fff3b.png)
+![image](https://user-images.githubusercontent.com/60730393/202898631-e4f6b3e2-b1d2-4258-b003-3142597fff3b.png)  
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ## 如何使用
