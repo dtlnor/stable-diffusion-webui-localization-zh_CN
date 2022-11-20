@@ -35,7 +35,7 @@ https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 - 安装完成，跳转到 [如何使用](#如何使用)
 
 ### 3. 又或者，直接下载然后放在对应路径
-- 下载本 git 仓库为 zip 档案
+- [下载本 git 仓库](https://codeload.github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/zip/refs/heads/main)为 zip 档案
 ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
 
 - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
