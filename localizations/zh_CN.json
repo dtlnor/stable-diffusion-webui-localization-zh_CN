@@ -617,7 +617,7 @@
     "Save a copy of image before doing face restoration.": "在进行面部修复之前保存图像副本",
     "Save a copy of image before applying highres fix.": "在做高分辨率修复之前保存初始图像副本",
     "Save a copy of image before applying color correction to img2img results": "在对图生图结果应用颜色校正之前保存图像副本",
-    "Quality for saved jpeg images": "保存的 jpeg 图像的质量",
+    "Quality for saved jpeg images": "保存的 JPEG 图像的质量",
     "If PNG image is larger than 4MB or any dimension is larger than 4000, downscale and save copy as JPG": "如果 PNG 图像大于 4MB 或宽高之一大于 4000，则缩小并保存副本为 JPG 图片",
     "Use original name for output filename during batch process in extras tab": "在更多选项卡中的批量处理过程中，使用原始名称作为输出文件名",
     "When using 'Save' button, only save a single selected image": "使用“保存”按钮时，只保存一个选定的图像",
