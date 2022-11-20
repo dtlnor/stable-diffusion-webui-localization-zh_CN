@@ -44,8 +44,8 @@ https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 
 ## 如何使用
 **重启webUI以启用扩展**
-- 在 `Extensions` 选项卡，点击 **橙色按钮** 以刷新扩展列表
-- 再次打开 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
+- 在 `Settings` 选项卡，点击 **页面底部**的 **橙色按钮** 刷新扩展列表
+- 在 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
 
 **选择简体中文语言包（zh_CN）**
 - 在 `Settings` 选项卡中，找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图
