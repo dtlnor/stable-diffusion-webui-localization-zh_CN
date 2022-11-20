@@ -151,7 +151,6 @@
     "If the groups wont drop down click": "如果无法下拉组，点击",
     "here": "这里",
     "to fix the issue.": "修复",
-    "You can add more wildcards by creating a text file with one term per line and name is mywildcards.txt. Place it in /home/ubuntu/stable-diffusion-webui/extensions/dynamic-prompts/wildcards.": "要添加更多通配符，可以创建一个文本文件（如 mywildcards.txt），每行写入一项提示词",
     "will then become available.": "文件放在相应目录就能被识别",
     "Jinja2 templates": "Jinja2 模板",
     "Enable Jinja2 templates": "启用 Jinja2 模板",
