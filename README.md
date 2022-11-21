@@ -30,7 +30,7 @@ QQ交流群 418316375
 ```
 https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 ```
-- 黏贴进第一栏，点击 `Install`，如图
+- 粘贴进 URL 栏，点击 `Install`，如图
 ![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
 - 安装完成，跳转到 [如何使用](#如何使用)
 
