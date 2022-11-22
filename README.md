@@ -12,7 +12,7 @@ QQ交流群 418316375
 
 [中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
 
-## 如何安装 webUI简体中文语言包
+## 如何安装webUI简体中文语言包
 ### 1. 通过官方扩展列表安装
 此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
 - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
