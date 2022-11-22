@@ -16,8 +16,7 @@ QQ交流群 418316375
 ### 1. 通过官方扩展列表安装
 此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
 - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
-- 取消勾选 `localization`
-- 然后点击 **橙色按钮**，如下图
+- **取消勾选** `localization`，然后点击 **橙色按钮**，如下图
 ![image](https://user-images.githubusercontent.com/60730393/202897956-484e2aaa-89db-4612-8e69-8d76458e23d0.png)  
 
 - 在 `zh_CN Localization` 这一项的右边点击 `install`
