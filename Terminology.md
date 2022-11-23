@@ -14,7 +14,7 @@
 | Slerp              |          | 球面线性插值     |                                                              |
 | Aesthetic          |          | 美术风格         |                                                              |
 | tokenizer          |          | 词元             |                                                              |
-| Textual Inversion  |          |                  | [参考链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)                                                             |
+|                    |          |                  |                              -                                |
 | t2i                |          | 文生图           | txt to img 的缩写                                            |
 | i2i                |          | 图生图           | img to img 的缩写                                            |
 | Tag                |          | 提示词           | 某些教程会使用 Tag 作为 Prompt 的翻译，但实际上只有部分模型（如wd跟nai）可以以tag的方式作为提示词输入 |
@@ -22,6 +22,7 @@
 | naifu              |          |                  | Novel AI 本地版                                    |
 | webUI              |          |                  | [stable diffusion 网页用户界面](https://github.com/AUTOMATIC1111/stable-diffusion-webui)，由AUTOMATIC1111开发 |
 | embedding          |          |                  |                                                              |
+| Textual Inversion  |          |                  | [参考链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)        |
 | ENSD               |          |                  | Eta noise seed delta                                                             |
 | CLIP               |          |                  | Contrastive Language-Image Pre-Training的缩写。CLIP是用于处理文本理解文本的神经网络，它把你的自然语言提示语分割成词元并转化为向量供 diffusion 模型使用 |
 | WD                 |          |                  | waifu diffusion的缩写       |
