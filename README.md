@@ -54,6 +54,10 @@ https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 ![image](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)  
 ![image](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
+## 贡献
+- 如果你觉得有些翻译很奇怪，可以在qq群里交流，又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
+- 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
+
 ## 已翻译扩展
 - [x] [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
 - [x] [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
