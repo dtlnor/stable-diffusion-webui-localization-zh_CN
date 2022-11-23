@@ -4,13 +4,9 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 简体中文(Simplified Chinese)
 简体中文翻译扩展，适用于 [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-QQ交流群 418316375
+[术语表](Terminology.md) - [已知问题](Known-Bug.md)
 
-[术语表](Terminology.md)
-
-[已知问题](Known-Bug.md)
-
-[中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
+[webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
 
 ## 如何安装webUI简体中文语言包
 ### 1. 通过官方扩展列表安装
@@ -55,7 +51,7 @@ https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 ![image](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
 ## 贡献
-- 如果你觉得有些翻译很奇怪，可以在qq群里交流，又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
+- 如果你觉得有些翻译很奇怪，可以在qq群里交流，群号418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
 - 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
 
 ## 已翻译扩展
