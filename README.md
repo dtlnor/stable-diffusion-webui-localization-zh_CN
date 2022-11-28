@@ -8,6 +8,50 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 [webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
 
+## 已翻译扩展
+- [x] [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
+- [x] [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
+- [x] [动态提示词](https://github.com/adieyal/sd-dynamic-prompts)  
+- [x] [dreambooth 插件](https://github.com/d8ahazard/sd_dreambooth_extension)  
+- [x] [智能预处理](https://github.com/d8ahazard/sd_smartprocess)  
+- [x] [图库浏览器](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
+- [ ] [灵感](https://github.com/yfszzx/stable-diffusion-webui-inspiration)  
+- [ ] [Deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui)  
+- [ ] [艺术家图库](https://github.com/camenduru/stable-diffusion-webui-artists-to-study)  
+- [ ] [美术风格评分](https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer)  
+- [ ] [数据集标签编辑器](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)  
+- [ ] [画图工具插件](https://github.com/Interpause/auto-sd-paint-ext)  
+- [x] [训练图挑选器](https://github.com/Maurdekye/training-picker)  
+- [x] [非文本（代码化）提示词](https://github.com/ThereforeGames/unprompted)  
+- [ ] [风格加码](https://github.com/some9000/StylePile)  
+- [ ] [Booru 标签(tag)自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
+- [x] [Tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
+- [x] [novelai 转 webui 括号](https://github.com/animerl/novelai-2-local-prompt)  
+- [x] [词元分析器(tokenizer)](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
+- [x] [镜像潜空间图像](https://github.com/dfaker/SD-latent-mirroring)  
+- [x] [embedding 编辑器](https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor)  
+- [x] [种子变迁](https://github.com/yownas/seed_travel)  
+- [x] [关注转移](https://github.com/yownas/shift-attention)  
+- [x] [检测细致化](https://github.com/dustysys/ddetailer.git)  
+- [x] [提示词变迁](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)  
+- [x] [高分辨率修复原图调节强度](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git)  
+- [x] [随机化](https://github.com/stysmmaker/stable-diffusion-webui-randomize.git)  
+- [x] [自动 TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
+- [x] [梦作家](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
+- [ ] [Waifu Diffusion 1.4 标签器](https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git)  
+- [ ] [booru转提示词](https://github.com/Malisius/booru2prompt)  
+- [ ] [合并面板](https://github.com/bbc-mc/sdweb-merge-board)  
+- [ ] [多主体渲染器](https://github.com/Extraltodeus/multi-subject-render)  
+- [ ] [深度图转蒙版](https://github.com/Extraltodeus/depthmap2mask)  
+- [ ] [Cross-Attention 可视化](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)  
+
+## 已翻译外置脚本
+- [x] [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)  
+
+## 贡献
+- 如果你觉得有些翻译很奇怪，可以在qq群里交流，群号418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
+- 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
+
 ## 如何安装webUI简体中文语言包
 ### 1. 通过官方扩展列表安装
 此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
@@ -49,40 +93,3 @@ https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 - 然后按一下 页面顶部的  **橙色按钮** 保存设置，再按 页面底部的 **橙色按钮** 重启webUI
 ![image](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)  
 ![image](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
-
-## 贡献
-- 如果你觉得有些翻译很奇怪，可以在qq群里交流，群号418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
-- 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
-
-## 已翻译扩展
-- [x] [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
-- [x] [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
-- [x] [动态提示词](https://github.com/adieyal/sd-dynamic-prompts)  
-- [x] [dreambooth 插件](https://github.com/d8ahazard/sd_dreambooth_extension)  
-- [x] [智能预处理](https://github.com/d8ahazard/sd_smartprocess)  
-- [x] [图库浏览器](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
-- [ ] [灵感](https://github.com/yfszzx/stable-diffusion-webui-inspiration)  
-- [ ] [Deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui)  
-- [ ] [艺术家图库](https://github.com/camenduru/stable-diffusion-webui-artists-to-study)  
-- [ ] [美术风格评分](https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer)  
-- [ ] [数据集标签编辑器](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)  
-- [ ] [画图工具插件](https://github.com/Interpause/auto-sd-paint-ext)  
-- [x] [训练图挑选器](https://github.com/Maurdekye/training-picker)  
-- [x] [非文本（代码化）提示词](https://github.com/ThereforeGames/unprompted)  
-- [x] [Tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
-- [x] [novelai 转 webui 括号](https://github.com/animerl/novelai-2-local-prompt)  
-- [x] [词元分析器(tokenizer)](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
-- [x] [镜像潜空间图像](https://github.com/dfaker/SD-latent-mirroring)  
-- [x] [embedding 编辑器](https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor)  
-- [x] [种子变迁](https://github.com/yownas/seed_travel)  
-- [x] [关注转移](https://github.com/yownas/shift-attention)  
-- [x] [检测细致化](https://github.com/dustysys/ddetailer.git)  
-- [x] [提示词变迁](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)  
-- [x] [高分辨率修复原图调节强度](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git)  
-- [x] [随机化](https://github.com/stysmmaker/stable-diffusion-webui-randomize.git)  
-- [x] [自动 TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
-- [x] [梦作家](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
-- [ ] [Waifu Diffusion 1.4 标签器](https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git)  
-
-## 已翻译外置脚本
-- [x] [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)  
