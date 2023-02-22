@@ -6,7 +6,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 [术语表](Terminology.md) - [已知问题](Known-Bug.md)
 
-[webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中)
+[webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中/待翻新)
 
 ## 已翻译扩展
 <details>
