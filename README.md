@@ -64,7 +64,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 如何安装webUI简体中文语言包
 
 <details>
-  <summary>新版本 webui</summary>
+  <summary>新版本 webui 安装方法【点击展开】</summary>
 
   ### 1. 通过官方扩展列表安装
   此扩展可以在 **Extension** 选项卡里面通过加载官方插件列表直接安装
@@ -97,7 +97,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 </details>
 
 <details>
-  <summary>2022年旧版本 webui</summary>
+  <summary>2022年旧版本 webui 安装方法【点击展开】</summary>
 
   ### 1. 通过官方扩展列表安装【旧版】
   此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
@@ -131,8 +131,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 ## 如何使用
 
-<details>
-  <summary>新版本 webui</summary>
+  > 2022 旧版 webui [点这里](#如何使用旧版)
   
   **确保扩展已经正确加载**  
   
@@ -157,8 +156,11 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 </details>
 
+## 如何使用【旧版】
+
 <details>
-  <summary>2022年旧版本 webui</summary>
+  <summary> 2022年旧版本 webui【点击展开】</summary>
+
 
   **重启webUI以启用扩展**
   - 在 `Settings` 选项卡，点击 **页面底部**的 **橙色按钮** 刷新扩展列表
