@@ -10,7 +10,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 ## 已翻译扩展
 <details>
-  <summary>作旧</summary>
+  <summary>待翻新</summary>
 
   - [x] [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
   - [x] [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
@@ -52,7 +52,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 已翻译外置脚本
 
 <details>
-  <summary>作旧</summary>
+  <summary>待翻新</summary>
   
   - [x] [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)  
 </details>
