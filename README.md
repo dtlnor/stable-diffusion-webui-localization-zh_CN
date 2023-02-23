@@ -61,6 +61,10 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 - 如果你觉得有些翻译很奇怪，可以在qq群里交流，群号418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
 - 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
 
+## Credit
+- 所有的 contributor 以及 collaborator
+- 御坂桜
+
 ## 如何安装webUI简体中文语言包
 
 <details>
