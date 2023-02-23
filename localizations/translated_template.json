@@ -6390,7 +6390,7 @@
     "Detach grad from conditioning models": "Detach grad from conditioning models",
     "Checkpoints to cache in RAM": "缓存在内存(RAM)中的模型(ckpt)数",
     "VAE Checkpoints to cache in RAM": "在内存中缓存的VAE数量",
-    "SD VAE": 模型的 VAE (SD VAE)",
+    "SD VAE": "模型的 VAE (SD VAE)",
     "Automatic": "自动（仅加载与模型同名的vae，未找到时不加载）",
     "Ignore selected VAE for stable diffusion checkpoints that have their own .vae.pt next to them": "对于拥有同名 .vae.pt 的模型，忽略掉选中的 VAE",
     "Inpainting conditioning mask strength": "局部重绘时图像调节的蒙版屏蔽强度",
