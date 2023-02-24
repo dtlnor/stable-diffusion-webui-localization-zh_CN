@@ -387,7 +387,7 @@
     "Extra filename (do not use e621.csv here!)": "附加词库文件（不要使用e621.csv）",
     "Extra file in alias only format": "附加词库文件使用仅别称格式",
     "Swap axes": "交换XY轴",
-    "Extra path to scan for LoRA models (e.g. training output directory)": "检索低秩微调模型(LoRA)的附加目录",
+    "Extra path to scan for LoRA models (e.g. training output directory)": "检索 LoRA 模型的附加目录",
     "Adjusts the size of the image by multiplying the original width and height by the selected value. Ignored if either Resize width to or Resize height to are non-zero.": "按比例放大原分辨率，单独设定目标长宽时被忽略",
     "Number of sampling steps for upscaled picture. If 0, uses same as for original.": "设置进行高清修复时的采样迭代次数，0表示沿用原始采样迭代次数",
     "Resizes image to this width. If 0, width is inferred from either of two nearby sliders.": "将宽度调整到此值，0表示根据目标高度或放大倍率自适应调整",
