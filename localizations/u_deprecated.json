@@ -455,7 +455,9 @@
     "sdweb-xyplus": "X/Y图表 Plus 插件",
     "Copy to directory": "将图片复制到目标路径",
     "Copy to favorites": "复制到收藏夹",
-    "Preview annotator result": "预览预处理结果",
-    "Hide annotator result": "隐藏预处理预览",
-    "--------": "--------"
+    "Enable scribble mode if your image has white background.": "使用白色背景图片时请启用涂鸦模式",
+    "Disabled when launched with --hide-ui-dir-config.": "启动 --hide-ui-dir-config 时禁用",
+    "Send to ControlNet": "发送到 ControlNet",
+    "stable-diffusion-webui-auto-tls-https": "自动 tls-https",
+    "--------": "---------"
 }
