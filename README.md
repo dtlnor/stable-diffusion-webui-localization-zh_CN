@@ -4,6 +4,8 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 简体中文(Simplified Chinese)
 简体中文翻译扩展，适用于 [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
+推荐与 [Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization) 共同使用
+
 [术语表](Terminology.md) - [已知问题](Known-Bug.md)
 
 [webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki) (编辑中/待翻新)
