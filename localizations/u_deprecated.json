@@ -145,7 +145,6 @@
     "Generate all possible prompts up to a maximum of Batch count * Batch size)": "生成不超过（生成批次 * 每批数量）的所有可能的提示词",
     "Useful for I'm feeling lucky and Magic Prompt. If this is set, then negative prompts are not generated.": "对手气不错和魔法提示词很有用。如果设置了此项，则不会生成否定提示",
     "Disable image generation. Useful if you only want to generate text prompts.": "禁用图像生成。如果你只想生成文本提示词的话",
-    "latest": "最新",
     "Provides an interface to browse created images in the web browser.": "在网页浏览器里提供一个查看生成图像历史的界面",
     "Show Textbox": "显示文本框",
     "File with inputs": "含输入内容的文件",
@@ -458,6 +457,6 @@
     "Enable scribble mode if your image has white background.": "使用白色背景图片时请启用涂鸦模式",
     "Disabled when launched with --hide-ui-dir-config.": "启动 --hide-ui-dir-config 时禁用",
     "Send to ControlNet": "发送到 ControlNet",
-    "stable-diffusion-webui-auto-tls-https": "自动 tls-https",
+    "Simplified Chinese localization": "简体中文本地化",
     "--------": "---------"
 }
