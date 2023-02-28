@@ -489,5 +489,6 @@
     "stable_diffusion_2.0_512 (2)": "stable_diffusion_2.0_512 (2)",
     "stable_diffusion_2.1_512 (2)": "stable_diffusion_2.1_512 (2)",
     "Illuminati Diffusion (1)": "Illuminati Diffusion (1)",
+    "/*.*": "/*.*",
     "---" : "---"
 }
