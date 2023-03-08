@@ -4,6 +4,6 @@
     "Upscaler 2": "放大算法 2 (Upscaler 2)",
     "Select which Real-ESRGAN models to show in the web UI. (Requires restart)": "选择要在 Web UI 中显示的 Real-ESRGAN 系列放大算法（需要保存设置并重启）",
     "Allowed categories for random artists selection when using the Roll button": "使用抽选艺术家按钮时将会随机的艺术家类别",
-    "Face restoration model": "选择面部修复模型",
+    "Face restoration model": "面部修复模型",
     "--------": "---------"
 }
