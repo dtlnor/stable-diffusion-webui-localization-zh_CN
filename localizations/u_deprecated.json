@@ -154,7 +154,6 @@
     "txt2img history": "文生图历史记录",
     "img2img history": "图生图历史记录",
     "extras history": "附加功能选项卡的历史记录",
-    "extras": "附加功能",
     "custom fold": "自定义文件夹",
     "Prev batch": "上一批",
     "Next batch": "下一批",
@@ -232,7 +231,6 @@
     "Make Zip when Save?": "保存时创建zip压缩文件?",
     "Masking mode": "蒙版模式",
     "Will upscale the image to twice the dimensions; use width and height sliders to set tile size": "将图像放大到两倍尺寸； 使用宽度和高度滑块设置图块尺寸(tile size)",
-    "SwinIR_4x": "SwinIR 4x",
     "Use negative embedding (DreamArtist)": "使用反向 Embedding (梦作家)",
     "CFG scale": "提示词相关性(CFG Scale)",
     "API Keys": "API 密钥",
@@ -500,5 +498,7 @@
     "Scan model": "扫描模型（通过 SHA256哈希值 为所有模型匹配C站信息，不会重复扫描，不会覆盖原有预览图）",
     "Stable-Diffusion-Webui-Civitai-Helper": "C站助手(Civitai Helper)",
     "Check console log window for detail, after clicking Scan button": "开始扫描后，请打开控制台以获得详细信息和日志，如遇报错，请先访问C站网页确认C站是否崩溃，C站恢复访问后，可再次开始扫描，扫描继承之前的进度，其他详细信息见插件GitHub页面",
+    "Close": "关闭",
+    "Fast Mode": "快速模式",
     "--------": "---------"
 }
