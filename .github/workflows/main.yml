@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
+        uses: docker://pablo-statsig/validate-json-action:latest
         env:
           INPUT_SCHEMA: /schema.json
           INPUT_JSONS: /localizations/zh_CN.json
