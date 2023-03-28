@@ -30,4 +30,4 @@ jobs:
         uses: Zingabopp/JsonValidate-Action@v1
         with:
           json-schema: schema.json
-          json-file: localization/zh_CN.json
+          json-file: ./localization/zh_CN.json
