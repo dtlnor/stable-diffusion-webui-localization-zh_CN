@@ -24,28 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Validate JSON
-        uses: walbo/validate-json@v1.1.0
+      - name: json-schema-validation
+        uses: Zingabopp/JsonValidate-Action@v1
         with:
-          files: localizations/*.json
-
-          # optional, defaults to `$schema` in your JSON file
-          schema: schema.json
-
-          # optional, default: draft-04
-          schema-version: draft-04
-
-          # optional, default: false
-          print-valid-files: false
-
-          # optional, default: false
-          fail-on-missing-schema: false
-
-          # optional, default: true
-          strict: true
-
-          # optional, default: false
-          allow-matching-properties: false
-
-          # optional, default: true
-          allow-union-types: true
+          json-schema: schema.json
+          json-file: localizations/zh_CN.json
