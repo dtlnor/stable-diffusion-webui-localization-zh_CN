@@ -25,7 +25,27 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Validate JSON
-        uses: docker://pablo-statsig/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /schema.json
-          INPUT_JSONS: /localizations/zh_CN.json
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: localizations/*.json
+
+          # optional, defaults to `$schema` in your JSON file
+          schema: schema.json
+
+          # optional, default: draft-04
+          schema-version: draft-04
+
+          # optional, default: false
+          print-valid-files: false
+
+          # optional, default: false
+          fail-on-missing-schema: false
+
+          # optional, default: true
+          strict: true
+
+          # optional, default: false
+          allow-matching-properties: false
+
+          # optional, default: true
+          allow-union-types: true
