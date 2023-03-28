@@ -29,5 +29,5 @@ jobs:
         # uses: emagers/json-schema-validation@62cee54e1826c5c8576f84b314450f2c09111824
         uses: Zingabopp/JsonValidate-Action@v1
         with:
-          json-schema: http://json-schema.org/draft-07/schema#
+          json-schema: schema.json
           json-file: localization/zh_CN.json
