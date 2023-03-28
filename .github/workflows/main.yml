@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: [ "json-validate" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "json-validate" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -24,8 +24,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Validate JSON
-        uses: docker://pablo-statsig/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /schema.json
-          INPUT_JSONS: /localizations/zh_CN.json
+      - name: json-schema-validation
+        # You may pin to the exact commit or the version.
+        # uses: emagers/json-schema-validation@62cee54e1826c5c8576f84b314450f2c09111824
+        uses: emagers/json-schema-validation@v1.0.2
+        with:
+          # The filename of the JSON schema
+          schema: /schema.json
+          # The filename of the JSON test file
+          testFile: /localizations/zh_CN.json
