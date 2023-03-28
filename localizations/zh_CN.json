@@ -1,6 +1,6 @@
 {
     "# of threads to use for hash calculation (increase if using an SSD)": "用于哈希计算的线程数（如果使用SSD可适当增加）",
-    "(A1) Primary": "(A1) 主要"
+    "(A1) Primary": "(A1) 主要",
     "(A10) Primary": "(A10) 主要",
     "(A2) Primary": "(A2) 主要",
     "(A3) Primary": "(A3) 主要",
