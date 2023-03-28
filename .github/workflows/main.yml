@@ -27,9 +27,7 @@ jobs:
       - name: json-schema-validation
         # You may pin to the exact commit or the version.
         # uses: emagers/json-schema-validation@62cee54e1826c5c8576f84b314450f2c09111824
-        uses: emagers/json-schema-validation@v1.0.2
+        uses: Zingabopp/JsonValidate-Action@v1
         with:
-          # The filename of the JSON schema
-          schema: /schema.json
-          # The filename of the JSON test file
-          testFile: /localizations/zh_CN.json
+          json-schema: http://json-schema.org/draft-07/schema#
+          json-file: localization/zh_CN.json
