@@ -20,6 +20,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [dreambooth 插件](https://github.com/d8ahazard/sd_dreambooth_extension)  
   - [x] [智能预处理](https://github.com/d8ahazard/sd_smartprocess)  
   - [x] [图库浏览器](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
+  - [x] [生成过程动画](https://github.com/vladmandic/sd-extension-steps-animation)  
   - [ ] [灵感](https://github.com/yfszzx/stable-diffusion-webui-inspiration)  
   - [ ] [Deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui)  
   - [ ] [艺术家图库](https://github.com/camenduru/stable-diffusion-webui-artists-to-study)  
