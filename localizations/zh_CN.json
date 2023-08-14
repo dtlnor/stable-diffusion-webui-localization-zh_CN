@@ -4484,7 +4484,7 @@
     "Extra arguments": "附加参数",
     "Extra arguments for trtexec command in plain text form": "纯文本形式的 trtexec 命令 附加参数",
     "Use half floats": "使用半精度",
-    "Show command for conversion": "显示转换指令",
+    "Show command for conversion": "显示转换指令（供关闭 WebUI 后使用 CMD 运行）",
     "":"",
     "":"",
     "":"",
