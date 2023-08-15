@@ -4,9 +4,9 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 简体中文(Simplified Chinese)
 简体中文翻译扩展，适用于 [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-此分支由 御坂桜 [@anne43983959](https://github.com/anne43983959) 为主要翻译与维护。各项用词规范与原版稍有不同。
+**此分支由 御坂桜 [@anne43983959](https://github.com/anne43983959) 为主要翻译与维护。各项用词规范与原版稍有不同。**
 
-~~***推荐与 [Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization) 共同使用***~~  
+~~推荐与 [Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization) 共同使用~~  
 已保留适当的英文词汇。
 
 【待翻新】 ~~[术语表](Terminology.md) - [已知问题](Known-Bug.md)~~
@@ -80,56 +80,6 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [ ] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
 
 </details>
-
-
-<!-- <details>
-  <summary>插件</summary>
-
-  - [x] [美术风格梯度](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
-  - [x] [通配符](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
-  - [x] [动态提示词](https://github.com/adieyal/sd-dynamic-prompts)  
-  - [x] [dreambooth 插件](https://github.com/d8ahazard/sd_dreambooth_extension)  
-  - [x] [智能预处理](https://github.com/d8ahazard/sd_smartprocess)  
-  - [x] [图库浏览器](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
-  - [x] [生成过程动画](https://github.com/vladmandic/sd-extension-steps-animation)  
-  - [ ] [灵感](https://github.com/yfszzx/stable-diffusion-webui-inspiration)  
-  - [ ] [Deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui)  
-  - [ ] [艺术家图库](https://github.com/camenduru/stable-diffusion-webui-artists-to-study)  
-  - [ ] [美术风格评分](https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer)  
-  - [ ] [数据集标签编辑器](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)  
-  - [ ] [画图工具插件](https://github.com/Interpause/auto-sd-paint-ext)  
-  - [x] [训练图挑选器](https://github.com/Maurdekye/training-picker)  
-  - [x] [非文本（代码化）提示词](https://github.com/ThereforeGames/unprompted)  
-  - [ ] [风格加码](https://github.com/some9000/StylePile)  
-  - [ ] [Booru 标签(tag)自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
-  - [x] [Tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
-  - [x] [novelai 转 webui 括号](https://github.com/animerl/novelai-2-local-prompt)  
-  - [x] [词元分析器(tokenizer)](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
-  - [x] [镜像潜空间图像](https://github.com/dfaker/SD-latent-mirroring)  
-  - [x] [embedding 编辑器](https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor)  
-  - [x] [种子变迁](https://github.com/yownas/seed_travel)  
-  - [x] [关注转移](https://github.com/yownas/shift-attention)  
-  - [x] [检测细致化](https://github.com/dustysys/ddetailer.git)  
-  - [x] [提示词变迁](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)  
-  - [x] [高分辨率修复原图调节强度](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git)  
-  - [x] [随机化](https://github.com/stysmmaker/stable-diffusion-webui-randomize.git)  
-  - [x] [自动 TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
-  - [x] [梦作家](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
-  - [ ] [Waifu Diffusion 1.4 标签器](https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git)  
-  - [ ] [booru转提示词](https://github.com/Malisius/booru2prompt)  
-  - [ ] [合并面板](https://github.com/bbc-mc/sdweb-merge-board)  
-  - [ ] [多主体渲染器](https://github.com/Extraltodeus/multi-subject-render)  
-  - [ ] [深度图转蒙版](https://github.com/Extraltodeus/depthmap2mask)  
-  - [ ] [Cross-Attention 可视化](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)  
-</details>
-
-## 已翻译外置脚本
-
-<details>
-  <summary>待翻新</summary>
-  
-  - [x] [embedding 转 png](https://github.com/dfaker/embedding-to-png-script)  
-</details> -->
 
 ## 贡献
 - 如果你觉得有些翻译很奇怪，可以在 qq 群里交流，群号 418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
