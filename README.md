@@ -14,6 +14,74 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 【待翻新】~~[webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki)~~
 
 ## 已翻译扩展
+<details>
+  <summary>持续更新中</summary>
+
+  - [x] [composable-lora / LoRA修饰限制](https://github.com/a2569875/stable-diffusion-webui-composable-lora)  
+  - [x] [controlnet / 扩散控制网络](https://github.com/Mikubill/sd-webui-controlnet)  
+  - [x] [images-browser / 图库浏览器](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
+  - [x] [Multidiffusion / 分块多重扩散](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)  
+  - [x] [tagcomplete / tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
+  - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
+  - [x] [Civitai-Helper / C站助手](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper)  
+  - [x] [kitchen-theme / Kitchen 主题](https://github.com/canisminor1990/sd-web-ui-kitchen-theme)  
+  - [x] [prompt-all-in-one / 提示词管理](https://github.com/Physton/sd-webui-prompt-all-in-one)  
+  - [x] [lora-block-weight / LoRA权重分层设置插件](https://github.com/hako-mikan/sd-webui-lora-block-weight)  
+  - [x] [zoomimage / 页内图片浏览缩放控件](https://github.com/viyiviyi/stable-diffusion-webui-zoomimage.git)  
+  - [x] [sd_shutdown_button / 一键退出按钮](https://github.com/EnsignMK/sd_shutdown_button)  
+  - [x] [Toolkit / 模型工具包](https://github.com/arenasys/stable-diffusion-webui-model-toolkit)  
+</details>
+<details>
+  <summary>暂停更新</summary>
+
+  - [x] [cutoff / 色彩分离](https://github.com/hnmr293/sd-webui-cutoff)  
+  - [x] [3d-open-pose-editor / 3D OpenPose 编辑器](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor)  
+  - [x] [Config-Presets / 预设配置](https://github.com/Zyin055/Config-Presets)  
+  - [x] [system-info / 系统信息](https://github.com/vladmandic/sd-extension-system-info)  
+  - [x] [openpose-editor / OpenPose 编辑器](https://github.com/fkunn1326/openpose-editor)  
+  - [x] [After Detailer，Adetailer / 细节修复](https://github.com/Bing-su/adetailer)  
+  - [x] [sd-webui-comfyui / 嵌入式 ComfyUI 插件](https://github.com/ModelSurge/sd-webui-comfyui.git)  
+  - [x] [PBRemTools / PBRem背景去除](https://github.com/mattyamonaca/PBRemTools)  
+  - [x] [wd14-tagger / WD1.4 Tag反推](https://github.com/toriato/stable-diffusion-webui-wd14-tagger)  
+  - [x] [ML-Danbooru / MLDanbooru Tag反推](https://github.com/7eu7d7/ML-Danbooru-webui.git)  
+  - [x] [SuperMerger / SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger)  
+  - [x] [sd-ratio-lock / 画面比例控件](https://github.com/bit9labs/sd-ratio-lock)  
+</details>
+<details>
+  <summary>已弃用</summary>
+
+  - [ ] [Cozy-Nest / Cozy-Nest主题](https://github.com/Nevysha/Cozy-Nest)  
+  - [ ] [grid_add_image_number / 图片序号标注插件](https://github.com/AlUlkesh/sd_grid_add_image_number)  
+  - [ ] [aesthetic-scorer / 美学评分插件](https://github.com/vladmandic/sd-extension-aesthetic-scorer)  
+  - [ ] [pixelization / 像素化插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization)  
+  - [ ] [tokenizer / 词元分析器](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
+  - [ ] [vram-estimator / 显存评估](https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator)  
+  - [ ] [Dataset Tag Editor / 数据集 Tag 编辑器](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)  
+  - [ ] [lycoris / LyCORIS插件](https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris)  
+  - [ ] [Local Latent upscaLer / 局部细化](https://github.com/hnmr293/sd-webui-llul)  
+  - [ ] [locon / LoCon插件](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon)  
+  - [ ] [Hires.fix+ / 高分辨率修复+](https://github.com/lihaoyun6/sd-webui-Hires-fix-Plus)  
+  - [ ] [auto-translate-language / 自动翻译](https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language)  
+  - [ ] [novelai-2-local-prompt / novelai 转 webui 括号](https://github.com/animerl/novelai-2-local-prompt)  
+  - [ ] [depth-lib / 深度图编辑插件](https://github.com/jexom/sd-webui-depth-lib)  
+  - [ ] [rembg / 背景去除插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)  
+  - [ ] [merge-block-weighted / 分块加权模型合并插件(MBW)](https://github.com/bbc-mc/sdweb-merge-block-weighted-gui)  
+  - [ ] [additional-networks / 附加网络(AddNet)](https://github.com/kohya-ss/sd-webui-additional-networks)  
+  - [ ] [Regional Prompter / 画面分区(Regional Prompter)](https://github.com/hako-mikan/sd-webui-regional-prompter)  
+  - [ ] [bilingual-localization / 双语本地化插件](https://github.com/journey-ad/sd-webui-bilingual-localization)  
+  - [ ] [catppuccin / 界面个性化设置](https://github.com/catppuccin/stable-diffusion-webui)  
+  - [ ] [gelbooru-prompt / Gelbooru标签自动摘录](https://github.com/antis0007/sd-webui-gelbooru-prompt)  
+  - [ ] [model-converter / 模型格式转换](https://github.com/Akegarasu/sd-webui-model-converter)  
+  - [ ] [multiple-hypernetworks / 多超网络加载](https://github.com/antis0007/sd-webui-multiple-hypernetworks)  
+  - [ ] [posex / 3D OpenPose 编辑器(Posex)](https://github.com/hnmr293/posex)  
+  - [ ] [xyplus / X/Y图表 Plus 插件](https://github.com/bbc-mc/sdweb-xyplus)  
+  - [ ] [prompt_translator / 机翻提示词(Prompt Translator)](https://github.com/ParisNeo/prompt_translator)  
+  - [ ] [Token Merging / 词元合并加速](https://github.com/SLAPaper/a1111-sd-webui-tome)  
+  - [ ] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
+
+</details>
+
+
 <!-- <details>
   <summary>插件</summary>
 
