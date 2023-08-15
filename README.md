@@ -82,7 +82,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 </details>
 
 ## 贡献
-- 如果你觉得有些翻译很奇怪，可以在 qq 群里交流，群号 418316375；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
+- 如果你觉得有些翻译很奇怪，可以在 qq 群里交流，群号 418316375（Anne分支：703219445）；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
 - 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
 
 ## Credit
