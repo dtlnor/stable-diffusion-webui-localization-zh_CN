@@ -41,7 +41,7 @@
 | Hypernetwork       |          | 超网络           |                                                              |
 | embedding          | 嵌入     | 嵌入式 | 早期与 Textual Inversion 混用，虽然严格意义上二者含义并不相同，但当前都指代同一种附加网络模型，且 embedding 在早期使用频率更高，故保留 |
 | Textual Inversion  | 文本反转 | 嵌入式 | [参考链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)        |
-
+| LoRA               | 低秩微调  | LoRA |  |
 
 
 
