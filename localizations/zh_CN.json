@@ -4373,6 +4373,7 @@
     "Copy metadata from merged models":"将合并前原始模型的 元数据 添加到新模型中",
     "Metadata in JSON format":"元数据的 JSON 格式",
     "Read metadata from selected checkpoint":"从已选模型读入 元数据",
+    "Read metadata from selected checkpoints":"从已选模型读入 元数据",
     "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "预设提示词 允许用户将整段常用的提示词预设直接插入到文本框中，使用“{text}”的格式可直接替换掉原有文本框中的内容，一般情况下将追加到当前内容的结尾",
     "sd-webui-cd-tuner":"色彩/细节 调节插件(CD Tuner)",
     "update time":"更新时间",
