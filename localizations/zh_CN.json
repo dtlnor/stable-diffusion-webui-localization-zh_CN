@@ -4526,7 +4526,7 @@
     "type":"类型",
     "Load Romdom preset":"加载随机预设（参见上方随机设置）",
     "Load Random preset":"加载随机预设（参见上方随机设置）",
-    "Select blocks to change":"应用数值变更的块",
+    "Select blocks to change":"将右侧数值变更应用到以下块：",
     "Mul":"相乘",
     "INP*":"IN**",
     "OUT*":"OUT**",
