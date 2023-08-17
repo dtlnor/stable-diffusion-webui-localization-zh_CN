@@ -78,6 +78,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [ ] [prompt_translator / 机翻提示词(Prompt Translator)](https://github.com/ParisNeo/prompt_translator)  
   - [ ] [Token Merging / 词元合并加速](https://github.com/SLAPaper/a1111-sd-webui-tome)  
   - [ ] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
+  - [ ] [vectorscope-cc / Vectorscope CC 调色器](https://github.com/Haoming02/sd-webui-vectorscope-cc)  
 
 </details>
 
