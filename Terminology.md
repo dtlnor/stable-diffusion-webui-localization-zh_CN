@@ -27,7 +27,7 @@
 | CLIP               |          |                  | Contrastive Language-Image Pre-Training的缩写。CLIP是用于处理文本理解文本的神经网络，它把你的自然语言提示语分割成词元并转化为向量供 diffusion 模型使用，是一个完整ckpt应具有的一个数据模块 |
 | VAE                | 变分自编码器 | VAE          |VAE 是用于 RGB图像 与 潜空间图像 间相互转化的一种神经网络，是一个完整ckpt应具有的一个数据模块|
 | U-net              | U型网络  | Unet             |此处 Unet 特指 ckpt 中用于处理潜空间数据的网络结构，因其示意图形状酷似字母U而得名，是一个完整ckpt应具有的一个数据模块|
-| Refiner            | 精炼器   |  Refiner          |特指 SDXL 中新添加的一个 Unet 类型，专门用于在采样的最后几步为图像添加细节|
+| Refiner            | 精炼器   |  Refiner          |原特指 SDXL 中新添加的一个 Unet 类型，专门用于在采样的最后几步为图像添加细节，现亦指使用其他模型（版本相同）的 unet 在生成的最后几步替换原先的 unet 以达到细化画面的作用|
 | NAI                |          |                  | Novel AI，同时也指代2022年10月 Novel AI 泄露的一批 ckpt                                    |
 | WD                 |          |                  | waifu diffusion的缩写       |
 | | | | -|
