@@ -4298,7 +4298,7 @@
     "Current ranking":"当前评级",
     "Set ranking to":"将当前评级设置为",
     "Edit metadata":"编辑元数据",
-    "Refiner":"Refiner（选择作为 Refiner 的模型必须与所选 ckpt 版本相同）",
+    "Refiner":"Refiner（Refiner 模型必须与所选 ckpt 版本相同）",
     "Enable Refiner":"启用 Refiner",
     "Exit ⭕": "退出并关闭控制台",
     "sd-webui-refiner":"SDXL Refiner加载插件",
