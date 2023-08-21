@@ -8,7 +8,7 @@
 | t2i                |          | 文生图           | txt to img 的缩写                                            |
 | i2i                |          | 图生图           | img to img 的缩写                                            |
 | Prompt             |          | 提示词           | 原意指以文本或其他形式展现的操作提示或用户对程序的提示性输入内容，此处专指作为 stable diffusion 算法和 GroundingDINO 输入数据的文本内容，通常以一段文本的形式出现，可以是自然语言，也可以是由 Tag 组成的一段内容|
-| Tag                |          | Tag              | 专指以逗号分隔、具有特定含义的一系列单词或词组，其具体释义应参见 Danbooru Wiki<br>某些教程会使用 Tag 作为 Prompt 的翻译，但实际上只有部分模型（基于NAI泄露的模型训练或包含此模型文本编码器的融合模型）可以以 tag 作为提示词输入 |
+| Tag                |          | Tag              | 专指以逗号分隔、具有特定含义的一系列单词或词组，其具体释义应参见 [Danbooru Wiki](https://danbooru.donmai.us/wiki_pages/help:home)<br>某些教程会使用 Tag 作为 Prompt 的翻译甚至混淆二者的概念，但 Tag 只是 prompt 的一种形式，且实际上只有部分模型（基于NAI泄露的模型训练或包含此模型文本编码器的融合模型）可以以 tag 作为提示词输入，大多数模型只接受以自然语言作为提示词输入，无法正确响应 Tag 的特定含义 |
 | token              |          | 词元             | prompt 被 CLIP 处理后得到的一系列数字标签，是 prompt 的基础计数单位和最小语义单位，注意，Tag 与 token 之间没有任何直接的数量关系|
 | CFG Scale          | CFG指数  | 提示词相关性     | Classifier Free Guidance Scale 的缩写，基于实际功能翻译。    |
 | Denoising strength | 去噪强度 | 重绘幅度         | 这里的“去噪”其实并非常规的去噪（不是那种后处理滤镜），而是同时指“加噪”强度。<br>在SD进行取样的过程中，他要先有噪点然后逐渐从噪点“恢复”成图片。这个“恢复”的过程就叫去噪。而假设我们有1份噪点（100%），step则决定每个step去除多少%的噪点。比如100步就是每步1%<br>i2i的生成过程就是，假如去噪强度是1.0，那他会加100%的噪点，然后跑100%的取样。而假如去噪强度是0.0，那他就不加噪点，也就是不做取样，直接编码进潜空间然后再直接解码回来。所以很自然0.5的去噪就只会跑一半的step，因为他只加了50%的噪点。<br>其实在sd官方，这个参数不叫Denoising strength，而是直接叫`strength` - `strength for noising/unnoising`（加噪/去噪的强度），我觉得以功能取代原有名字也是一种解决办法。 |
@@ -23,12 +23,12 @@
 | tokenizer          |          | 词元分析器       | 
 | | | | -|                                                             |
 |模型相关| - | - | - |
-| checkpoint         | 检查点   | ckpt             | 专门指代 stable diffusion 训练过程中模型的检查点，通常以ckpt作为其文件扩展名，后出于安全因素转变为多以safetensors格式储存 |
-| CLIP               |          |                  | Contrastive Language-Image Pre-Training的缩写。CLIP是用于处理文本理解文本的神经网络，它把你的自然语言提示语分割成词元并转化为向量供 diffusion 模型使用，是一个完整ckpt应具有的一个数据模块 |
-| VAE                | 变分自编码器 | VAE          |VAE 是用于 RGB图像 与 潜空间图像 间相互转化的一种神经网络，是一个完整ckpt应具有的一个数据模块|
-| U-net              | U型网络  | Unet             |此处 Unet 特指 ckpt 中用于处理潜空间数据的网络结构，因其示意图形状酷似字母U而得名，是一个完整ckpt应具有的一个数据模块|
+| checkpoint         | 检查点   | ckpt             | 专门指代 stable diffusion 训练过程中模型的检查点，又因其可以直接作为 stable diffusion 推理所使用的模型，故也被叫做 `stable diffusion 模型` 或者 `SD模型`，通常以 `ckpt` 作为其文件扩展名，故亦可简称为 `ckpt`，后出于安全因素转变为多以 `safetensors` 格式储存 |
+| CLIP               |          |                  | Contrastive Language-Image Pre-Training的缩写。CLIP是用于处理文本理解文本的神经网络，它把你的自然语言提示语分割成词元并转化为向量供 diffusion 模型使用，是一个完整 `ckpt` 应具有的一个数据模块 |
+| VAE                | 变分自编码器 | VAE          |VAE 是用于 RGB图像 与 潜空间图像 间相互转化的一种神经网络，是一个完整 `ckpt` 应具有的一个数据模块|
+| U-net              | U型网络  | Unet             |此处 Unet 特指 `ckpt` 中用于处理潜空间数据的网络结构，因其示意图形状酷似字母U而得名，是一个完整 `ckpt` 应具有的一个数据模块|
 | Refiner            | 精炼器   |  Refiner          |原特指 SDXL 中新添加的一个 Unet 类型，专门用于在采样的最后几步为图像添加细节，现亦指使用其他模型（版本相同）的 unet 在生成的最后几步替换原先的 unet 以达到细化画面的作用|
-| NAI                |          |                  | Novel AI，同时也指代2022年10月 Novel AI 泄露的一批 ckpt                                    |
+| NAI                |          |                  | Novel AI，同时也指代2022年10月 Novel AI 泄露的一批 `ckpt`                                    |
 | WD                 |          |                  | waifu diffusion的缩写       |
 | | | | -|
 |采样器相关| - | - | - |
