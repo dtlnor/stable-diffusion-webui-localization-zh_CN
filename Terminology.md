@@ -7,7 +7,7 @@
 | naifu              |          |                  | 一种模仿 Novel AI 官方页面的用户界面|
 | t2i                |          | 文生图           | txt to img 的缩写                                            |
 | i2i                |          | 图生图           | img to img 的缩写                                            |
-| Prompt             |          | 提示词           | 原意指以文本或其他形式展现的操作提示或用户对程序的提示性输入内容，此处专指作为 stable diffusion 算法和 GroundingDINO 输入数据的文本内容，通常以一段文本的形式出现，可以是自然语言，也可以是由 Tag 组成的一段内容|
+| Prompt             |          | 提示词           | 原意指以文本或其他形式展现的操作提示或用户对程序的提示性输入内容，此处专指作为 stable diffusion 算法的文本内容，通常以一段文本的形式出现，可以是自然语言，也可以是由 Tag 组成的一段内容|
 | Tag                |          | Tag              | 专指以逗号分隔、具有特定含义的一系列单词或词组，其具体释义应参见 [Danbooru Wiki](https://danbooru.donmai.us/wiki_pages/help:home)<br>某些教程会使用 Tag 作为 Prompt 的翻译甚至混淆二者的概念，但 Tag 只是 prompt 的一种形式，且实际上只有部分模型（基于NAI泄露的模型训练或包含此模型文本编码器的融合模型）可以以 tag 作为提示词输入，大多数模型只接受以自然语言作为提示词输入，无法正确响应 Tag 的特定含义 |
 | token              |          | 词元             | prompt 被 CLIP 处理后得到的一系列数字标签，是 prompt 的基础计数单位和最小语义单位，注意，Tag 与 token 之间没有任何直接的数量关系|
 | CFG Scale          | CFG指数  | 提示词相关性     | Classifier Free Guidance Scale 的缩写，基于实际功能翻译。    |
