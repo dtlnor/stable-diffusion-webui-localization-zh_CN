@@ -4675,7 +4675,7 @@
     "Year": "今年",
     "Month": "本月",
     "Week": "本周",
-    "Day": "过去42小时内",
+    "Day": "过去24小时内",
     "Newest": "最新",
     "Most Downloaded": "最多下载",
     "Highest Rated": "最高评分",
