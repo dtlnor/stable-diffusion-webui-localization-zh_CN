@@ -23,7 +23,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [Multidiffusion / 分块多重扩散](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)  
   - [x] [tagcomplete / tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
   - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
-  - [x] [Civitai-Helper / C站助手](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper)  
+  - [x] [sd-civitai-browser-plus / C站浏览器插件](https://github.com/BlafKing/sd-civitai-browser-plus)  
   - [x] [kitchen-theme / Kitchen 主题](https://github.com/canisminor1990/sd-web-ui-kitchen-theme)  
   - [x] [prompt-all-in-one / 提示词管理](https://github.com/Physton/sd-webui-prompt-all-in-one)  
   - [x] [lora-block-weight / LoRA权重分层设置插件](https://github.com/hako-mikan/sd-webui-lora-block-weight)  
@@ -34,6 +34,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 <details>
   <summary>暂停更新</summary>
 
+  - [x] [Civitai-Helper / C站助手](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper)  
   - [x] [cutoff / 色彩分离](https://github.com/hnmr293/sd-webui-cutoff)  
   - [x] [3d-open-pose-editor / 3D OpenPose 编辑器](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor)  
   - [x] [Config-Presets / 预设配置](https://github.com/Zyin055/Config-Presets)  
