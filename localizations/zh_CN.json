@@ -4687,7 +4687,7 @@
     "second pass":"第二轮生成（放大后进行高分辨率修复的阶段）",
     "both passes":"两轮生成过程都使用 Refiner",
     "Interprocess communication strategy":"进程间通信策略",
-    "ComfyUI server graceful termination timeout (in seconds) when reloading the gradio UI (-1 to block until the ComfyUI server exits normally)":"重新加载 Gradio UI 时，ComfyUI服务器 尝试优雅终止线程的超时时限(单位：秒)（设-1则拦截进程，直到 ComfyUI服务器 正常退出）",
+    "ComfyUI server graceful termination timeout (in seconds) when reloading the gradio UI (-1 to block until the ComfyUI server exits normally)":"重新加载 Gradio UI 时，ComfyUI服务器 尝试优雅终止线程的超时时限(单位：秒)（设-1则不强制终止进程，直到 ComfyUI服务器 正常退出）",
     "Load ComfyUI iframes through a reverse proxy (requires reload UI. Needs --api. Default is on if webui is remote)":"通过反向代理加载 ComfyUI 框架（需要保存并重启，并在 WebUI 的启动参数中添加 --api，如果 WebUI 本身就是通过是远程链接，则默认打开）",
     "Default": "默认",
     "Shared memory": "共享内存",
@@ -4761,6 +4761,6 @@
     "":"",
     "":"",
     "":"",
-    "":"",
+    "本翻译的GitHub链接":"https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/tree/Anne",
     "--END--":"--END--"
 }
