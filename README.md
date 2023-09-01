@@ -4,7 +4,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 ## 简体中文(Simplified Chinese)
 简体中文翻译扩展，适用于 [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-**此分支由 御坂桜 [@anne43983959](https://github.com/anne43983959) 为主要翻译与维护。各项用词规范与原版稍有不同。**
+**此分支由 御坂桜 [@anne43983959](https://github.com/anne43983959) 提供主要翻译与维护。各项用词规范与原版稍有不同。**
 
 此分支已保留适当的英文词汇，不推荐与 [Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization) 共同使用，可能造成界面臃肿 
 
@@ -14,42 +14,49 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 【待翻新】~~[webUI中文Wiki文档](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/wiki)~~
 
 ## 已翻译扩展
+**持续更新的扩展**
 <details>
-  <summary>持续更新中</summary>
-
-  - [x] [composable-lora / LoRA修饰限制](https://github.com/a2569875/stable-diffusion-webui-composable-lora)  
-  - [x] [controlnet / 扩散控制网络](https://github.com/Mikubill/sd-webui-controlnet)  
-  - [x] [images-browser / 图库浏览器](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
-  - [x] [Multidiffusion / 分块多重扩散](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)  
-  - [x] [tagcomplete / tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
-  - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
-  - [x] [sd-civitai-browser-plus / C站浏览器插件](https://github.com/BlafKing/sd-civitai-browser-plus)  
-  - [x] [kitchen-theme / Kitchen 主题](https://github.com/canisminor1990/sd-web-ui-kitchen-theme)  
-  - [x] [prompt-all-in-one / 提示词管理](https://github.com/Physton/sd-webui-prompt-all-in-one)  
-  - [x] [lora-block-weight / LoRA权重分层设置插件](https://github.com/hako-mikan/sd-webui-lora-block-weight)  
-  - [x] [zoomimage / 页内图片浏览缩放控件](https://github.com/viyiviyi/stable-diffusion-webui-zoomimage)  
-  - [x] [sd_shutdown_button / 一键退出按钮](https://github.com/EnsignMK/sd_shutdown_button)  
-  - [x] [Toolkit / 模型工具包](https://github.com/arenasys/stable-diffusion-webui-model-toolkit)  
-</details>
-<details>
-  <summary>暂停更新</summary>
+  <summary>用途基础且广泛，已确认同时开启不会发生冲突或冲突在可接受范围内，有新版本第一时间更新汉化</summary>
 
   - [x] [Civitai-Helper / C站助手](https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper)  
-  - [x] [cutoff / 色彩分离](https://github.com/hnmr293/sd-webui-cutoff)  
-  - [x] [3d-open-pose-editor / 3D OpenPose 编辑器](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor)  
-  - [x] [Config-Presets / 预设配置](https://github.com/Zyin055/Config-Presets)  
-  - [x] [system-info / 系统信息](https://github.com/vladmandic/sd-extension-system-info)  
-  - [x] [openpose-editor / OpenPose 编辑器](https://github.com/fkunn1326/openpose-editor)  
-  - [x] [After Detailer，Adetailer / 细节修复](https://github.com/Bing-su/adetailer)  
-  - [x] [sd-webui-comfyui / 嵌入式 ComfyUI 插件](https://github.com/ModelSurge/sd-webui-comfyui)  
-  - [x] [PBRemTools / PBRem背景去除](https://github.com/mattyamonaca/PBRemTools)  
-  - [x] [wd14-tagger / WD1.4 Tag反推](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger)  
-  - [x] [ML-Danbooru / MLDanbooru Tag反推](https://github.com/7eu7d7/ML-Danbooru-webui.git)  
-  - [x] [SuperMerger / SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger)  
-  - [x] [sd-ratio-lock / 画面比例控件](https://github.com/bit9labs/sd-ratio-lock)  
+  - [x] [tagcomplete / tag自动补全](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
+  - [x] [Multidiffusion / 分块多重扩散](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)  
+  - [x] [controlnet / 扩散控制网络](https://github.com/Mikubill/sd-webui-controlnet) 
+  - [x] [lobe-theme / Lobe主题(原 Kitchen主题)](https://github.com/lobehub/sd-webui-lobe-theme)    
+  - [x] [openpose-editor / OpenPose 编辑器（嵌入 ControlNet）](https://github.com/huchenlei/sd-webui-openpose-editor) 
+  - [x] [prompt-all-in-one / 提示词管理](https://github.com/Physton/sd-webui-prompt-all-in-one)    
+  - [x] [sd_shutdown_button / 一键退出按钮](https://github.com/EnsignMK/sd_shutdown_button)  
+  - [x] [composable-lora / LoRA修饰限制](https://github.com/a2569875/stable-diffusion-webui-composable-lora)  
+  - [x] [images-browser / 图库浏览器](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
+  - [x] [Toolkit / 模型工具包](https://github.com/arenasys/stable-diffusion-webui-model-toolkit)  
+  - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
+  - [x] [zoomimage / 页内图片浏览缩放控件](https://github.com/viyiviyi/stable-diffusion-webui-zoomimage)   
+
 </details>
+
+**不定期更新的扩展**
 <details>
-  <summary>已弃用</summary>
+  <summary>用途相对专一，可按需启用，不确定会不会与当前同时开启的其他扩展发生冲突，因此不定期更新汉化</summary>
+
+  - [x] [After Detailer，Adetailer / 细节修复](https://github.com/Bing-su/adetailer)  
+  - [x] [sd-civitai-browser-plus / C站浏览器插件](https://github.com/BlafKing/sd-civitai-browser-plus)  
+  - [x] [system-info / 系统信息](https://github.com/vladmandic/sd-extension-system-info) 
+  - [x] [sd-ratio-lock / 画面比例控件](https://github.com/bit9labs/sd-ratio-lock)  
+  - [x] [3d-open-pose-editor / 3D OpenPose 编辑器](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor)  
+  - [x] [CD Tuner / 色彩/细节 调节插件](https://github.com/hako-mikan/sd-webui-cd-tuner)  
+  - [x] [sd-webui-comfyui / 嵌入式 ComfyUI 插件](https://github.com/ModelSurge/sd-webui-comfyui) 
+  - [x] [cutoff / 色彩分离](https://github.com/hnmr293/sd-webui-cutoff)  
+  - [x] [lora-block-weight / LoRA权重分层设置插件](https://github.com/hako-mikan/sd-webui-lora-block-weight)  
+  - [x] [segment-anything / Segment Anything 蒙版绘制插件(SAM 插件)](https://ghproxy.com/https://github.com/continue-revolution/sd-webui-segment-anything)  
+  - [x] [SuperMerger / SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger) 
+  - [x] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
+  - [x] [wd14-tagger / WD1.4 Tag反推](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger)  
+
+</details>
+
+**停止更新的扩展**
+<details>
+  <summary>功能过时、被前述扩展替代、原作者已放弃更新，或启用后产生不可接受的兼容性问题，故不再更新</summary>
 
   - [ ] [Cozy-Nest / Cozy-Nest主题](https://github.com/Nevysha/Cozy-Nest)  
   - [ ] [grid_add_image_number / 图片序号标注插件](https://github.com/AlUlkesh/sd_grid_add_image_number)  
@@ -78,7 +85,10 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [ ] [xyplus / X/Y图表 Plus 插件](https://github.com/bbc-mc/sdweb-xyplus)  
   - [ ] [prompt_translator / 机翻提示词(Prompt Translator)](https://github.com/ParisNeo/prompt_translator)  
   - [ ] [Token Merging / 词元合并加速](https://github.com/SLAPaper/a1111-sd-webui-tome)  
-  - [ ] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
+  - [ ] [Config-Presets / 预设配置](https://github.com/Zyin055/Config-Presets)  
+  - [ ] [openpose-editor / OpenPose 编辑器](https://github.com/fkunn1326/openpose-editor)  
+  - [ ] [PBRemTools / PBRem背景去除](https://github.com/mattyamonaca/PBRemTools)  
+  - [ ] [ML-Danbooru / MLDanbooru Tag反推](https://github.com/7eu7d7/ML-Danbooru-webui.git)  
   - [ ] [vectorscope-cc / Vectorscope CC 调色器](https://github.com/Haoming02/sd-webui-vectorscope-cc)  
 
 </details>
