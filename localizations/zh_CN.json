@@ -4750,7 +4750,7 @@
     "XYZ Plot": "X/Y/Z表",
     "Adjust IN,OUT,OUT2,Contrast,COL1,COL2,COL3": "手动键入7个微调量，也可使用下方滑动条设置，点击“↑”将下方滑动条的值填入文本框，点击“↓”将文本内容输入滑动条，仅文本框中的值作为输入参数被读取",
     "Clear Cache": "清空缓存",
-    "": "",
+    "Upload independent control image": "使用独立的控制图像（图生图时默认使用上方上传图像作为 ControlNet 输入）",
     "": "",
     "": "",
     "": "",
