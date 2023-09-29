@@ -43,6 +43,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [system-info / 系统信息](https://github.com/vladmandic/sd-extension-system-info) 
   - [x] [sd-ratio-lock / 画面比例控件](https://github.com/bit9labs/sd-ratio-lock)  
   - [x] [3d-open-pose-editor / 3D OpenPose 编辑器](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor)  
+  - [x] [sd-webui-bmab / BMAB 插件](https://github.com/portu-sim/sd-webui-bmab) 
   - [x] [CD Tuner / 色彩/细节 调节插件](https://github.com/hako-mikan/sd-webui-cd-tuner)  
   - [x] [sd-webui-comfyui / 嵌入式 ComfyUI 插件](https://github.com/ModelSurge/sd-webui-comfyui) 
   - [x] [cutoff / 色彩分离](https://github.com/hnmr293/sd-webui-cutoff)  
