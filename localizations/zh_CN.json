@@ -4925,7 +4925,7 @@
     "Use Prompt from Preview Image":"使用预设图片的提示词",
 	"Rename Card":"重命名",
     "queue:":"队列：",
-    "": "",
+    "Print stack traces before exiting the program with ctrl+c.": "在使用 ctrl+c 退出程序之前向控制台输出堆栈跟踪",
     "": "",
     "": "",
     "": "",
