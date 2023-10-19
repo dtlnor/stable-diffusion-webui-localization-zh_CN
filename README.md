@@ -73,7 +73,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 <details>
   <summary>新版本 webui 安装方法【点击展开】</summary>
 
-  ### 1. 通过官方扩展列表安装（需要切换分支）
+  ### 1. 通过官方扩展列表安装
   此扩展可以在 **Extension** 选项卡里面通过加载官方插件列表直接安装
   - 点击 `Extension` 选项卡，点击 `Avaliable` 子选项卡
   - **取消勾选** `localization`，再把其他勾上，然后点击 **橙色按钮**，如下图
@@ -83,7 +83,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   ![image](https://user-images.githubusercontent.com/21131439/220507520-77eab48a-272b-4a06-a38a-ca721181092f.png)
   - 安装完成，跳转到 [如何切换分支](#如何切换分支)
 
-  ### 2. 或者，通过网址安装（需要切换分支）
+  ### 2. 或者，通过网址安装
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
@@ -94,7 +94,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 安装完成，跳转到 [如何切换分支](#如何切换分支)
 
   ### 3. 又或者，直接下载然后放在对应路径（无法自动更新）
-  - [下载本 git 仓库](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/archive/refs/heads/Anne.zip)为 zip 档案
+  - [下载本 git 仓库](https://codeload.github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/zip/refs/heads/main)为 zip 档案
   ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
@@ -106,7 +106,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 <details>
   <summary>2022年旧版本 webui 安装方法【点击展开】</summary>
 
-  ### 1. 通过官方扩展列表安装【旧版】（需要切换分支）
+  ### 1. 通过官方扩展列表安装【旧版】
   此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
   - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
   - **取消勾选** `localization`，然后点击 **橙色按钮**，如下图
@@ -116,7 +116,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   ![image](https://user-images.githubusercontent.com/60730393/202897890-cd502e8d-dee0-48f8-835a-c3446cfb526c.png)
   - 安装完成，跳转到 [如何切换分支](#如何切换分支)
 
-  ### 2. 或者，通过网址安装【旧版】（需要切换分支）
+  ### 2. 或者，通过网址安装【旧版】
   - 点击 `extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
@@ -127,7 +127,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 安装完成，跳转到 [如何切换分支](#如何切换分支)
 
   ### 3. 又或者，直接下载然后放在对应路径【旧版】（无法自动更新）
-  - [下载本 git 仓库](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/archive/refs/heads/Anne.zip)为 zip 档案
+  - [下载本 git 仓库](https://codeload.github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/zip/refs/heads/main)为 zip 档案
   ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
@@ -137,7 +137,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 </details>
 
 ## 如何切换分支
- **要使用此分支的汉化，需要手动切换插件的分支**  
+ **要使用 Anne 分支的汉化，需要手动切换插件的分支**  
 - 打开插件的 `安装目录`（一般为 `根目录\extensions\stable-diffusion-webui-localization-zh_CN`）
 - 在 `地址栏` 输入 `cmd`，按 `回车`
 - 输入 `git checkout Anne`，按 `回车`
