@@ -50,7 +50,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [lora-block-weight / LoRA权重分层设置插件](https://github.com/hako-mikan/sd-webui-lora-block-weight)  
   - [x] [segment-anything / Segment Anything 蒙版绘制插件(SAM 插件)](https://ghproxy.com/https://github.com/continue-revolution/sd-webui-segment-anything)  
   - [x] [SuperMerger / SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger) 
-  - [x] [TensorRT / TensorRT支持插件](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt)  
+  - [x] [TensorRT / TensorRT支持插件](https://github.com/NVIDIA/stable-diffusion-webui-tensorrt)  
   - [x] [wd14-tagger / WD1.4 Tag反推](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger)  
 
 </details>
