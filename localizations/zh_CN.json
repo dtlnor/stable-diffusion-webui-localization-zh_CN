@@ -2234,6 +2234,8 @@
     "Foreground": "前景",
     "Draw full canvas background": "绘制完整的画布背景",
     "LoRA Block Weight": "LoRA 权重分层设置(LoRA Block Weight)",
+    "LoRA Block Weight : Not Active": "LoRA 权重分层设置(LoRA Block Weight)：未启用",
+    "LoRA Block Weight : Active": "LoRA 权重分层设置(LoRA Block Weight)：已启用",
     "Active": "激活",
     "XYZ plot": "X/Y/Z 图表",
     "changeable blocks :": "可变权重层：",
