@@ -171,11 +171,15 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 </details>
 
 ## 如何切换分支
- **要使用此分支的汉化，需要手动切换插件的分支**  
+~~**要使用此分支的汉化，需要手动切换插件的分支**~~  
+目前 zhCN 已经将 Anne 分支设置为主分支。  
+只有旧用户需要按照下述操作手动切换到 Anne 分支
+
 - 打开插件的 `安装目录`（一般为 `根目录\extensions\stable-diffusion-webui-localization-zh_CN`）
 - 在 `地址栏` 输入 `cmd`，按 `回车`
 - 输入 `git checkout Anne`，按 `回车`
 - 分支切换完成，跳转到 [如何使用](#如何使用)
+
 ## 如何使用
 
   > 2022 旧版 webui [点这里](#如何使用旧版)
