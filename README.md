@@ -26,11 +26,11 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - [x] [openpose-editor / OpenPose 编辑器（嵌入 ControlNet）](https://github.com/huchenlei/sd-webui-openpose-editor) 
   - [x] [prompt-all-in-one / 提示词管理](https://github.com/Physton/sd-webui-prompt-all-in-one)    
   - [x] [sd_shutdown_button / 一键退出按钮](https://github.com/EnsignMK/sd_shutdown_button)  
-  - [x] [composable-lora / LoRA修饰限制](https://github.com/a2569875/stable-diffusion-webui-composable-lora)  
   - [x] [images-browser / 图库浏览器](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
   - [x] [Toolkit / 模型工具包](https://github.com/arenasys/stable-diffusion-webui-model-toolkit)  
   - [x] [two-shot/latent couple / 画面分区(Latent Couple)](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot)  
   - [x] [zoomimage / 页内图片浏览缩放控件](https://github.com/viyiviyi/stable-diffusion-webui-zoomimage)   
+  - [x] [composable-lora / LoRA修饰限制](https://github.com/Mingyuegong/training-wb-composable-lora)  
 
 </details>
 
