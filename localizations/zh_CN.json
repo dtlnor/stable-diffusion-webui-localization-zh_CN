@@ -5422,7 +5422,7 @@
     "Hypertile U-Net max tile size": "Hypertile U-Net 最大分块尺寸",
     "Hires prompt": "高分辨率修复时第二轮生成时的提示词",
     "Hires negative prompt": "高分辨率修复时第二轮生成时的负面提示词",
-    "": "",
+    "(enables hypertile for all modes, including hires fix second pass; noticeable change in details of the generated picture)": "（为 U-Net 全局启用 Hypertile 优化，包括高分辨率修复时第二轮生成，轻微改变生成的图片细节）",
     "": "",
     "": "",
     "": "",
