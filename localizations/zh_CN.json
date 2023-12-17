@@ -5541,7 +5541,7 @@
     ": Softer blending, details may fade.": "：过渡更柔和，但可能丢失细节",
     ": Stronger contrast, may over-saturate colors.": "：过渡更锐利，但可能出现杂色或过饱和色块",
     "Masks are generated based on how much a part of the image changed after denoising.": "前述内容皆为潜空间参数，此部分参数为像素空间参数，应用于生成结束的后处理阶段。",
-    "These masks are used to blend the original and final images together.": "蒙版作为生成前后像素重新合成的依据，其范围与不透明度决定了生成的新画面相比原始画面发生了多大变化。新生成的图像在潜空间中已经受到蒙版的影响，但重绘是以全分辨率进行的，因此非重绘区域（如指定重绘蒙版内部时，蒙版未覆盖的区域）也可能发生一定程度的变化。",
+    "These masks are used to blend the original and final images together.": "蒙版作为生成前后像素重新合成的依据，其范围与不透明度决定了生成的新画面相比原始画面发生了多大变化。新生成的图像在潜空间中已经受到蒙版的影响，但整个重绘区域为矩形，并不一定与蒙版完全重合（无论选择以原图还是以蒙版尺寸重绘），因此非重绘区域（如指定重绘蒙版内部时，蒙版未覆盖的区域）也可能发生一定程度的变化。",
     "If the difference is low, the original pixels are used instead of the pixels returned by the inpainting process.": "如果某个位置的像素生成前后变化低于某个阈值（差分阈值），则最终像素融合时会直接使用原始画面的像素，而不是新生成画面的像素。",
     "This parameter controls how much the mask should bias this sensitivity to difference.": "此参数控制蒙版区域内对生成前后差异识别的灵敏度，该参数可以视作蒙版区域内对 差分阈值 的一个偏置修正。",
     ": Ignore the mask, only consider differences in image content.": "：忽略蒙版本身，只考虑生成前后的内容差异",
