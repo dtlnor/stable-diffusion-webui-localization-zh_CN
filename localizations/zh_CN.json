@@ -5552,7 +5552,7 @@
     "This value represents the contrast between the opacity of the original and inpainted content.": "该参数控制像素合成时原始画面像素的不透明度。",
     ": The blend will be more gradual and have longer transitions, but may cause ghosting.": "：过渡区域将会扩大，过渡会更柔和，但过渡区可能因新旧内容重合导致重影",
     ": Ghosting will be less common, but transitions may be very sudden.": "：重影减少，但过渡会变得不自然",
-    "": "",
+    "soft-inpainting": "柔和局部重绘",
     "": "",
     "": "",
     "": "",
