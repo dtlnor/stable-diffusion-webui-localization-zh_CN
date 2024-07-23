@@ -158,10 +158,10 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
   **选择简体中文语言包（zh_CN）**  
   
-  - 在 `Settings` 选项卡中，找到 `User interface` 子选项  
-    ![image](https://user-images.githubusercontent.com/21131439/220509760-b8680fcd-9673-47e3-ba47-2ae0baf41d51.png)  
+  - 在 `Settings` 选项卡中，找到 <code><ins><b>User interface</b></ins></code> 分类的 `User interface` 子选项
+    ![image](https://github.com/user-attachments/assets/412d3ca8-576f-413a-a6bc-65031585e445) 
   
-  - 然后去页面最底部（`1.5`版本起为页面最顶部），找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图  
+  - 然后去页面最顶部（`1.5`版本前为页面最底部），找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图  
   ![image](https://user-images.githubusercontent.com/21131439/220510690-4445c0bc-b70b-4943-b69c-270faa7cffc1.png)  
 
   - 然后按一下 页面顶部左边的 **橙色 `Apply settings` 按钮** 保存设置，再按 右边的 **橙色 `Reload UI` 按钮** 重启webUI  
