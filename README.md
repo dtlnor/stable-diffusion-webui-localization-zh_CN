@@ -95,7 +95,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 </details>
 
 ## 贡献
-- 如果你觉得有些翻译很奇怪，或者希望某个扩展被汉化，可以在 qq 群里交流，群号 [418316375](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=thuOC8Ptq5xMV2AwyXwPgnTwMumDBrAP&authKey=DiYFGSuBpaFkMvzx4IyO7J3RD4wq4hvVrz%2BIa8wHuZ6%2F3EK9BH3R0XOweb0oRv%2By&noverify=0&group_code=418316375)（Anne分支：[703219445](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BXSQ51FJ1Tx3VIjWsC3nt1PoVtZh1_Se&authKey=iTeH%2FHeGSo6HCNNnefh%2FsrBNnY%2F%2BeSx73%2BX1uTc4e4TGYkordrWQz1nH8Ll77RAe&noverify=0&group_code=703219445)）；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
+- 如果你觉得有些翻译很奇怪，或者希望某个扩展被汉化，可以在[Discussions](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/discussions)里交流；又或者[提交一个新issue](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/issues/new/choose)
 - 如果你想添加一些尚未支持的扩展、脚本的翻译，欢迎pr
 
 ## Credit
